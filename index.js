@@ -64,7 +64,7 @@ instance.prototype.config_fields = function () {
 		{
 			type: 'textinput',
 			id: 'host',
-			label: 'Resolume Host IP',
+			label: 'Resolume HosSst IP',
 			width: 8,
 			regex: self.REGEX_IP
 		},
